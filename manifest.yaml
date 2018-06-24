@@ -1,0 +1,7 @@
+---
+applications:
+- name: micro-a
+  memory: 32M
+  disk_quota: 256M
+  random-route: true
+  buildpack: nodejs_buildpack
